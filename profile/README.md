@@ -1,4 +1,4 @@
-![madewithai](https://github.com/madewithai/.github/assets/79358543/48eda242-19c7-4686-a1bc-1e98fc3e6ffe)
+![madewithai](https://github.com/madewithai/.github/assets/79358543/35822eca-02a4-4954-9c1f-3bcdc8a5becf)
 
 `madewithai` houses repositories associated with AI-driven tools and solutions.
 
