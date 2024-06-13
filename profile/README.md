@@ -11,6 +11,6 @@ Welcome to **Made With AI**, a collaborative hub for showcasing and developing t
 ## 😍 Want to join our team?
 We are looking for people who enjoy using **AI** in every field. If you are interested in joining our team, go to our [website](https://madewithai.netlify.app) and enter your Github username. You will receive an email with GitHub invitation link - it's that simple!
 
-## 💝 Sponsoring
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="38" /> Sponsoring
 
 <a href="https://github.com/sponsors/mafik"><img alt="Marek Rogalski (mafik)" title="Marek Rogalski (mafik)" src="https://avatars.githubusercontent.com/u/309914?v=4" width="63"></a>
