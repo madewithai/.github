@@ -13,4 +13,4 @@ We are looking for people who enjoy using **AI** in every field. If you are inte
 
 ## 💝 Sponsoring
 
-<a href="https://github.com/mafik"><img alt="Marek Rogalski (mafik)" title="Marek Rogalski (mafik)" src="https://avatars.githubusercontent.com/u/309914?v=4" width="48"></a>
+<a href="https://github.com/sponsors/mafik"><img alt="Marek Rogalski (mafik)" title="Marek Rogalski (mafik)" src="https://avatars.githubusercontent.com/u/309914?v=4" width="63"></a>
